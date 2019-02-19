@@ -1,3 +1,5 @@
+tekrar_eden_dizin_elemanlari.c.c
+
 #include <stdio.h>
 #include <stdlib.h>
 /*
@@ -68,3 +70,4 @@ int main()
     bul_dizindeki_tekrarlar(1, test07);
     return 0;
 }
+
